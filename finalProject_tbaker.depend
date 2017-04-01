@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1460864061 source:z:\cs 250\finalproject\finalproject_tbaker\finalproject_tbaker_main.cpp
+	<iomanip>
+	<iostream>
+	"plaqueMenu.h"
+	"readAllOrders.h"
+	"manufactReport.h"
+	"findContacts.h"
+
+1460777849 z:\cs 250\finalproject\finalproject_tbaker\smallboard.h
+	<string>
+	<iostream>
+
+1460777952 source:z:\cs 250\finalproject\finalproject_tbaker\smallboard.cpp
+	"smallBoard.h"
+
+1460911200 source:z:\cs 250\finalproject\finalproject_tbaker\mainplaque.cpp
+	"mainPlaque.h"
+	<sstream>
+
+1460911265 z:\cs 250\finalproject\finalproject_tbaker\mainplaque.h
+	<string>
+	<iostream>
+
+1460911073 z:\cs 250\finalproject\finalproject_tbaker\teachertype.h
+	"mainPlaque.h"
+	"smallBoard.h"
+	"contactList.h"
+
+1460911073 source:z:\cs 250\finalproject\finalproject_tbaker\teachertype.cpp
+	"teacherType.h"
+	<sstream>
+
+1460221620 z:\cs 250\finalproject\finalproject_tbaker\name.h
+	<string>
+	<iostream>
+
+1460237121 z:\cs 250\finalproject\finalproject_tbaker\functioning.h
+
+1460237121 source:z:\cs 250\finalproject\finalproject_tbaker\functioning.cpp
+
+1460306758 z:\cs 250\finalproject\finalproject_tbaker\plaquemenu.h
+	<string>
+
+1460919110 source:z:\cs 250\finalproject\finalproject_tbaker\plaquemenu.cpp
+	<iomanip>
+	<iostream>
+	<fstream>
+	"teacherType.h"
+	"plaqueMenu.h"
+
+1460821752 z:\cs 250\finalproject\finalproject_tbaker\readallorders.h
+	"teacherType.h"
+
+1460919808 source:z:\cs 250\finalproject\finalproject_tbaker\readallorders.cpp
+	"readAllOrders.h"
+	"teacherType.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1460858036 source:z:\cs 250\finalproject\finalproject_tbaker\manufactreport.cpp
+	<iomanip>
+	<iostream>
+	<fstream>
+	"teacherType.h"
+	"manufactReport.h"
+
+1460821781 z:\cs 250\finalproject\finalproject_tbaker\manufactreport.h
+
+1460787682 source:z:\cs 250\finalproject\finalproject_tbaker\backups.c
+
+1460904271 z:\cs 250\finalproject\finalproject_tbaker\contactlist.h
+	"mainPlaque.h"
+
+1460904243 source:z:\cs 250\finalproject\finalproject_tbaker\contactlist.cpp
+	"contactList.h"
+
+1460860292 z:\cs 250\finalproject\finalproject_tbaker\findcontacts.h
+	"teacherType.h"
+
+1461212606 source:z:\cs 250\finalproject\finalproject_tbaker\findcontacts.cpp
+	"findContacts.h"
+	"contactList.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<ctime>
+

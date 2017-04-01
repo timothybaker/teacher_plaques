@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="finalProject_tbaker" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/finalProject_tbaker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/finalProject_tbaker" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="contactList.cpp" />
+		<Unit filename="contactList.h" />
+		<Unit filename="finalProject_tbaker_main.cpp" />
+		<Unit filename="findContacts.cpp" />
+		<Unit filename="findContacts.h" />
+		<Unit filename="mainPlaque.cpp" />
+		<Unit filename="mainPlaque.h" />
+		<Unit filename="manufactReport.cpp" />
+		<Unit filename="manufactReport.h" />
+		<Unit filename="plaqueMenu.cpp" />
+		<Unit filename="plaqueMenu.h" />
+		<Unit filename="readAllOrders.cpp" />
+		<Unit filename="readAllOrders.h" />
+		<Unit filename="smallBoard.cpp" />
+		<Unit filename="smallBoard.h" />
+		<Unit filename="teacherType.cpp" />
+		<Unit filename="teacherType.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

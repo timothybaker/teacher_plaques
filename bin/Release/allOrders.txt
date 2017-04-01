@@ -1,0 +1,6224 @@
+///
+Golden Cordle
+U of S
+1985
+3
+3
+Granby Elementary School
+G
+1985
+1
+Granby Elementary School
+H
+1986
+5
+Granby Elementary School
+A
+1987
+5
+Granby Elementary School
+G
+1988
+5
+Granby Elementary School
+A
+1989
+4
+Granby Elementary School
+G
+1990
+4
+Granby Elementary School
+G
+1991
+K
+Granby Elementary School
+A
+1992
+K
+Granby Elementary School
+R
+1993
+K
+Granby Elementary School
+G
+1994
+K
+Granby Elementary School
+N
+1995
+K
+Granby Elementary School
+H
+1996
+2
+Lindenwood Elementary School
+N
+1997
+2
+Lindenwood Elementary School
+N
+1998
+2
+Sewells Point Elem. School
+A
+1999
+2
+Sewells Point Elem. School
+R
+2000
+2
+Sewells Point Elem. School
+G
+2001
+2
+Sewells Point Elem. School
+A
+2002
+2
+Sewells Point Elem. School
+H
+2003
+2
+Sewells Point Elem. School
+A
+2004
+2
+Sewells Point Elem. School
+R
+2005
+2
+Sewells Point Elem. School
+G
+2006
+2
+Sewells Point Elem. School
+G
+2007
+1
+Sewells Point Elem. School
+H
+2008
+1
+Sewells Point Elem. School
+C
+2009
+3
+Sewells Point Elem. School
+G
+2010
+3
+Sewells Point Elem. School
+G
+2011
+3
+Sewells Point Elem. School
+N
+2012
+3
+Sewells Point Elem. School
+H
+2013
+3
+Sewells Point Elem. School
+A
+2014
+3
+Sewells Point Elem. School
+C
+2015
+///
+Waneta Caver
+Colorado
+2015
+5
+5
+W.H. Taylor Elem. School
+G
+2015
+///
+Winnifred Rota
+Pitt
+1998
+4
+5
+Larrymore Elementary School
+N
+1998
+4
+Larrymore Elementary School
+G
+1999
+2
+Larrymore Elementary School
+R
+2000
+2
+Larrymore Elementary School
+C
+2001
+2
+Larrymore Elementary School
+G
+2002
+2
+Larrymore Elementary School
+H
+2003
+2
+Larrymore Elementary School
+A
+2004
+2
+Larrymore Elementary School
+N
+2005
+2
+Larrymore Elementary School
+N
+2006
+2
+Larrymore Elementary School
+R
+2007
+4
+Larrymore Elementary School
+H
+2008
+4
+Larrymore Elementary School
+N
+2009
+4
+Larrymore Elementary School
+A
+2010
+4
+Larrymore Elementary School
+H
+2011
+4
+Larrymore Elementary School
+R
+2012
+4
+Larrymore Elementary School
+R
+2013
+4
+Larrymore Elementary School
+C
+2014
+4
+Larrymore Elementary School
+G
+2015
+///
+Willia Pilkenton
+UMW
+2006
+4
+5
+Camp Allen Elementary School
+G
+2006
+5
+Sherwood Forest Elem. School
+C
+2007
+5
+Larrymore Elementary School
+R
+2008
+K
+Larrymore Elementary School
+R
+2009
+K
+Larrymore Elementary School
+R
+2010
+K
+Larrymore Elementary School
+N
+2011
+K
+Ocean View Elementary School
+C
+2012
+K
+Ocean View Elementary School
+G
+2013
+K
+Ocean View Elementary School
+H
+2014
+K
+Ocean View Elementary School
+A
+2015
+///
+Britney Bogle
+NC A&T
+2006
+2
+5
+Ocean View Elementary School
+N
+2006
+5
+Ocean View Elementary School
+N
+2007
+5
+Ocean View Elementary School
+G
+2008
+5
+Ocean View Elementary School
+C
+2009
+5
+Ocean View Elementary School
+C
+2010
+2
+Norview Elementary School
+H
+2011
+1
+Norview Elementary School
+C
+2012
+1
+Norview Elementary School
+A
+2013
+4
+Norview Elementary School
+A
+2014
+3
+Lindenwood Elementary School
+C
+2015
+///
+Paula Corp
+NC A&T
+1996
+4
+K
+Larrymore Elementary School
+A
+1996
+K
+Larrymore Elementary School
+C
+1997
+K
+Larrymore Elementary School
+R
+1998
+1
+Larrymore Elementary School
+C
+1999
+1
+Larrymore Elementary School
+A
+2000
+4
+Larrymore Elementary School
+H
+2001
+4
+Larrymore Elementary School
+C
+2002
+1
+Larrymore Elementary School
+R
+2003
+1
+Larrymore Elementary School
+N
+2004
+1
+Larrymore Elementary School
+H
+2005
+1
+Larrymore Elementary School
+N
+2006
+1
+Larrymore Elementary School
+H
+2007
+3
+Larrymore Elementary School
+G
+2008
+3
+Larrymore Elementary School
+G
+2009
+3
+Larrymore Elementary School
+C
+2010
+3
+Larrymore Elementary School
+G
+2011
+3
+Larrymore Elementary School
+H
+2012
+3
+Larrymore Elementary School
+A
+2013
+3
+Granby Elementary School
+H
+2014
+K
+Granby Elementary School
+N
+2015
+///
+Sade Burlison
+USM
+2011
+5
+K
+Granby Elementary School
+N
+2011
+K
+Granby Elementary School
+C
+2012
+K
+Granby Elementary School
+A
+2013
+K
+Granby Elementary School
+H
+2014
+K
+Granby Elementary School
+R
+2015
+///
+January Alvino
+SDSU
+1999
+5
+1
+Mary Calcott Elem. School
+H
+1999
+4
+Mary Calcott Elem. School
+G
+2000
+4
+Mary Calcott Elem. School
+N
+2001
+4
+Mary Calcott Elem. School
+C
+2002
+K
+Mary Calcott Elem. School
+N
+2003
+K
+Mary Calcott Elem. School
+R
+2004
+K
+Mary Calcott Elem. School
+G
+2005
+K
+Mary Calcott Elem. School
+H
+2006
+K
+Granby Elementary School
+G
+2007
+K
+Granby Elementary School
+H
+2008
+K
+Granby Elementary School
+C
+2009
+K
+Granby Elementary School
+C
+2010
+K
+Granby Elementary School
+N
+2011
+K
+Granby Elementary School
+N
+2012
+K
+Granby Elementary School
+G
+2013
+K
+Granby Elementary School
+R
+2014
+K
+Granby Elementary School
+C
+2015
+///
+Chrissy Vicari
+FAMU
+1998
+1
+2
+Tidewater Park Elem. School
+N
+1998
+3
+Tidewater Park Elem. School
+N
+1999
+3
+Tidewater Park Elem. School
+R
+2000
+3
+Tidewater Park Elem. School
+G
+2001
+3
+Tidewater Park Elem. School
+C
+2002
+2
+Tidewater Park Elem. School
+C
+2003
+2
+Tidewater Park Elem. School
+N
+2004
+2
+Tidewater Park Elem. School
+N
+2005
+2
+Chesterfield Academy
+N
+2006
+2
+Chesterfield Academy
+H
+2007
+2
+Chesterfield Academy
+C
+2008
+2
+Chesterfield Academy
+R
+2009
+K
+Chesterfield Academy
+C
+2010
+K
+Chesterfield Academy
+N
+2011
+K
+Chesterfield Academy
+N
+2012
+K
+Chesterfield Academy
+A
+2013
+5
+Chesterfield Academy
+N
+2014
+1
+Chesterfield Academy
+R
+2015
+///
+Korey Darling
+PVAMU
+1987
+5
+3
+Lindenwood Elementary School
+C
+1987
+3
+Lindenwood Elementary School
+H
+1988
+3
+Lindenwood Elementary School
+R
+1989
+3
+Lindenwood Elementary School
+R
+1990
+1
+Lindenwood Elementary School
+C
+1991
+1
+Lindenwood Elementary School
+H
+1992
+K
+Lindenwood Elementary School
+G
+1993
+2
+Lindenwood Elementary School
+H
+1994
+2
+Lindenwood Elementary School
+G
+1995
+2
+Lindenwood Elementary School
+G
+1996
+2
+Lindenwood Elementary School
+H
+1997
+2
+Lindenwood Elementary School
+A
+1998
+2
+Lindenwood Elementary School
+N
+1999
+3
+Little Creek Elem. School
+N
+2000
+3
+Little Creek Elem. School
+H
+2001
+3
+Little Creek Elem. School
+A
+2002
+3
+Larchmont Elementary School
+H
+2003
+4
+Larchmont Elementary School
+N
+2004
+3
+Larchmont Elementary School
+R
+2005
+3
+Larchmont Elementary School
+N
+2006
+5
+Larchmont Elementary School
+C
+2007
+5
+Larchmont Elementary School
+G
+2008
+5
+Larchmont Elementary School
+G
+2009
+3
+St. Helena Elementary School
+R
+2010
+3
+St. Helena Elementary School
+H
+2011
+3
+St. Helena Elementary School
+G
+2012
+3
+St. Helena Elementary School
+A
+2013
+3
+St. Helena Elementary School
+R
+2014
+3
+St. Helena Elementary School
+N
+2015
+///
+Tish Mosca
+USCA
+1990
+3
+3
+Acad. For Discovery Lakewood
+C
+1990
+3
+Acad. For Discovery Lakewood
+N
+1991
+3
+Acad. For Discovery Lakewood
+H
+1992
+K
+Acad. For Discovery Lakewood
+H
+1993
+1
+Acad. For Discovery Lakewood
+H
+1994
+1
+Acad. For Discovery Lakewood
+R
+1995
+1
+Sewells Point Elem. School
+C
+1996
+1
+Sewells Point Elem. School
+A
+1997
+4
+Sewells Point Elem. School
+H
+1998
+4
+Sewells Point Elem. School
+R
+1999
+4
+Sewells Point Elem. School
+G
+2000
+4
+Sewells Point Elem. School
+A
+2001
+4
+Sewells Point Elem. School
+R
+2002
+4
+Sewells Point Elem. School
+G
+2003
+4
+Sewells Point Elem. School
+C
+2004
+K
+Larchmont Elementary School
+A
+2005
+K
+Larchmont Elementary School
+A
+2006
+K
+Larchmont Elementary School
+H
+2007
+1
+Richard Bowling Elem. School
+R
+2008
+1
+Richard Bowling Elem. School
+C
+2009
+1
+Richard Bowling Elem. School
+C
+2010
+1
+Richard Bowling Elem. School
+G
+2011
+4
+Richard Bowling Elem. School
+G
+2012
+4
+Richard Bowling Elem. School
+A
+2013
+4
+Richard Bowling Elem. School
+R
+2014
+4
+Richard Bowling Elem. School
+H
+2015
+///
+King Kilgo
+UIC
+2011
+2
+K
+Granby Elementary School
+A
+2011
+K
+Granby Elementary School
+R
+2012
+K
+Poplar Halls Elem. School
+C
+2013
+3
+Poplar Halls Elem. School
+R
+2014
+3
+Poplar Halls Elem. School
+A
+2015
+///
+Tamatha Niles
+OK State
+2011
+4
+1
+Granby Elementary School
+C
+2011
+1
+Granby Elementary School
+N
+2012
+1
+Granby Elementary School
+A
+2013
+5
+Granby Elementary School
+C
+2014
+5
+Granby Elementary School
+A
+2015
+///
+Carli Shiner
+Army
+1993
+3
+5
+Tidewater Park Elem. School
+R
+1993
+5
+Tidewater Park Elem. School
+C
+1994
+5
+Tidewater Park Elem. School
+N
+1995
+5
+Tidewater Park Elem. School
+G
+1996
+5
+P.B. Young, Sr. Elem. School
+H
+1997
+5
+Larrymore Elementary School
+A
+1998
+4
+Larrymore Elementary School
+H
+1999
+4
+Larrymore Elementary School
+R
+2000
+4
+Larrymore Elementary School
+G
+2001
+4
+Larrymore Elementary School
+H
+2002
+4
+Larrymore Elementary School
+A
+2003
+4
+Tanners Creek Elem. School
+G
+2004
+4
+Tanners Creek Elem. School
+H
+2005
+4
+Tanners Creek Elem. School
+R
+2006
+4
+Tanners Creek Elem. School
+A
+2007
+4
+Tanners Creek Elem. School
+N
+2008
+4
+Tanners Creek Elem. School
+R
+2009
+4
+Lindenwood Elementary School
+G
+2010
+4
+Sewells Point Elem. School
+C
+2011
+4
+Sewells Point Elem. School
+C
+2012
+3
+W.H. Taylor Elem. School
+H
+2013
+3
+W.H. Taylor Elem. School
+G
+2014
+4
+W.H. Taylor Elem. School
+H
+2015
+///
+Golden Petteway
+SU
+2005
+3
+4
+Ingleside Elementary School
+R
+2005
+2
+Ingleside Elementary School
+A
+2006
+2
+Ingleside Elementary School
+C
+2007
+2
+Ingleside Elementary School
+C
+2008
+2
+Ingleside Elementary School
+R
+2009
+5
+Ingleside Elementary School
+R
+2010
+5
+Ingleside Elementary School
+G
+2011
+5
+Ingleside Elementary School
+H
+2012
+1
+Ingleside Elementary School
+G
+2013
+1
+Ingleside Elementary School
+C
+2014
+1
+Tarrallton Elementary School
+A
+2015
+///
+Eloisa Veasley
+ENC
+1986
+2
+3
+Oceanair Elementary School
+R
+1986
+3
+Oceanair Elementary School
+C
+1987
+3
+Oceanair Elementary School
+A
+1988
+3
+Oceanair Elementary School
+G
+1989
+3
+Oceanair Elementary School
+N
+1990
+3
+Oceanair Elementary School
+G
+1991
+3
+Oceanair Elementary School
+H
+1992
+3
+Oceanair Elementary School
+H
+1993
+3
+Oceanair Elementary School
+C
+1994
+3
+Oceanair Elementary School
+G
+1995
+3
+Oceanair Elementary School
+H
+1996
+1
+Oceanair Elementary School
+H
+1997
+1
+Oceanair Elementary School
+C
+1998
+1
+Oceanair Elementary School
+N
+1999
+1
+Oceanair Elementary School
+C
+2000
+1
+Oceanair Elementary School
+A
+2001
+1
+Oceanair Elementary School
+H
+2002
+1
+Oceanair Elementary School
+A
+2003
+1
+Oceanair Elementary School
+R
+2004
+1
+Oceanair Elementary School
+H
+2005
+1
+Oceanair Elementary School
+C
+2006
+1
+Oceanair Elementary School
+G
+2007
+1
+Oceanair Elementary School
+A
+2008
+1
+Oceanair Elementary School
+N
+2009
+4
+Oceanair Elementary School
+R
+2010
+1
+Oceanair Elementary School
+N
+2011
+K
+Oceanair Elementary School
+H
+2012
+K
+Oceanair Elementary School
+N
+2013
+K
+Oceanair Elementary School
+R
+2014
+K
+Oceanair Elementary School
+G
+2015
+///
+Tamatha Qualls
+PVAMU
+2003
+2
+3
+Coleman Place Elem. School
+C
+2003
+4
+Coleman Place Elem. School
+C
+2004
+4
+Coleman Place Elem. School
+R
+2005
+4
+Coleman Place Elem. School
+C
+2006
+4
+Coleman Place Elem. School
+R
+2007
+4
+Coleman Place Elem. School
+G
+2008
+4
+Coleman Place Elem. School
+C
+2009
+2
+Coleman Place Elem. School
+C
+2010
+1
+Coleman Place Elem. School
+G
+2011
+1
+Coleman Place Elem. School
+G
+2012
+4
+Coleman Place Elem. School
+A
+2013
+5
+Coleman Place Elem. School
+A
+2014
+5
+Coleman Place Elem. School
+C
+2015
+///
+Tish Vicari
+SJSU
+2009
+2
+3
+Sewells Point Elem. School
+C
+2009
+3
+Sewells Point Elem. School
+N
+2010
+3
+Sewells Point Elem. School
+G
+2011
+4
+James Monroe Elem. School
+R
+2012
+3
+James Monroe Elem. School
+A
+2013
+3
+James Monroe Elem. School
+H
+2014
+3
+James Monroe Elem. School
+H
+2015
+///
+Korey Decosta
+ETSU
+1987
+1
+4
+Norview Elementary School
+A
+1987
+4
+Norview Elementary School
+G
+1988
+4
+Norview Elementary School
+A
+1989
+4
+Norview Elementary School
+C
+1990
+4
+Norview Elementary School
+C
+1991
+5
+Norview Elementary School
+R
+1992
+5
+Norview Elementary School
+A
+1993
+5
+Norview Elementary School
+A
+1994
+5
+Norview Elementary School
+R
+1995
+5
+Norview Elementary School
+H
+1996
+2
+Norview Elementary School
+H
+1997
+2
+Norview Elementary School
+G
+1998
+2
+Norview Elementary School
+A
+1999
+2
+Norview Elementary School
+H
+2000
+2
+Norview Elementary School
+N
+2001
+K
+Norview Elementary School
+G
+2002
+K
+Norview Elementary School
+H
+2003
+2
+Chesterfield Academy
+G
+2004
+K
+Chesterfield Academy
+N
+2005
+K
+Chesterfield Academy
+R
+2006
+K
+Chesterfield Academy
+H
+2007
+K
+Chesterfield Academy
+C
+2008
+K
+Chesterfield Academy
+A
+2009
+3
+Chesterfield Academy
+N
+2010
+3
+Chesterfield Academy
+C
+2011
+3
+Chesterfield Academy
+N
+2012
+3
+Chesterfield Academy
+C
+2013
+3
+Chesterfield Academy
+G
+2014
+3
+Chesterfield Academy
+A
+2015
+///
+Mee Nosal
+ENC
+2010
+4
+K
+Crossroads School (Pre-K-8)
+A
+2010
+K
+Crossroads School (Pre-K-8)
+G
+2011
+4
+Crossroads School (Pre-K-8)
+C
+2012
+4
+Crossroads School (Pre-K-8)
+A
+2013
+4
+Crossroads School (Pre-K-8)
+A
+2014
+5
+Crossroads School (Pre-K-8)
+A
+2015
+///
+Manda Cordle
+UCA
+1985
+2
+1
+Larrymore Elementary School
+A
+1985
+2
+Larrymore Elementary School
+G
+1986
+2
+Willoughby Elementary School
+C
+1987
+2
+Willoughby Elementary School
+H
+1988
+1
+Willoughby Elementary School
+N
+1989
+1
+Willoughby Elementary School
+C
+1990
+3
+Coleman Place Elem. School
+R
+1991
+2
+Coleman Place Elem. School
+G
+1992
+K
+Coleman Place Elem. School
+C
+1993
+2
+Coleman Place Elem. School
+H
+1994
+3
+Coleman Place Elem. School
+G
+1995
+3
+Coleman Place Elem. School
+N
+1996
+3
+Coleman Place Elem. School
+R
+1997
+5
+Coleman Place Elem. School
+N
+1998
+5
+Coleman Place Elem. School
+A
+1999
+5
+Coleman Place Elem. School
+H
+2000
+3
+Chesterfield Academy
+R
+2001
+3
+Chesterfield Academy
+C
+2002
+4
+Chesterfield Academy
+C
+2003
+4
+Chesterfield Academy
+A
+2004
+3
+Coleman Place Elem. School
+A
+2005
+3
+Coleman Place Elem. School
+A
+2006
+3
+Coleman Place Elem. School
+N
+2007
+3
+Coleman Place Elem. School
+A
+2008
+3
+Coleman Place Elem. School
+G
+2009
+3
+Coleman Place Elem. School
+H
+2010
+3
+Coleman Place Elem. School
+A
+2011
+3
+Coleman Place Elem. School
+H
+2012
+K
+Coleman Place Elem. School
+N
+2013
+K
+Coleman Place Elem. School
+C
+2014
+K
+Coleman Place Elem. School
+R
+2015
+///
+Daphine Marsland
+UTSA
+2012
+5
+1
+Jacox Elementary School
+C
+2012
+1
+Jacox Elementary School
+R
+2013
+3
+Jacox Elementary School
+N
+2014
+3
+Jacox Elementary School
+R
+2015
+///
+Eloisa Dry
+SLU
+2004
+2
+2
+Jacox Elementary School
+C
+2004
+5
+Jacox Elementary School
+R
+2005
+5
+Sherwood Forest Elem. School
+N
+2006
+3
+Sherwood Forest Elem. School
+R
+2007
+3
+Larchmont Elementary School
+A
+2008
+3
+Larchmont Elementary School
+C
+2009
+3
+Larchmont Elementary School
+G
+2010
+3
+Willard Model Elem. School
+N
+2011
+3
+Willard Model Elem. School
+H
+2012
+3
+Tanners Creek Elem. School
+A
+2013
+3
+Tanners Creek Elem. School
+N
+2014
+3
+Tanners Creek Elem. School
+R
+2015
+///
+Golden Crosby
+Caltech
+2008
+5
+K
+Tanners Creek Elem. School
+A
+2008
+K
+Tanners Creek Elem. School
+H
+2009
+K
+Tanners Creek Elem. School
+N
+2010
+K
+Tanners Creek Elem. School
+G
+2011
+K
+Tanners Creek Elem. School
+R
+2012
+K
+Tanners Creek Elem. School
+C
+2013
+K
+Tanners Creek Elem. School
+N
+2014
+1
+Tanners Creek Elem. School
+G
+2015
+///
+Laurie Heyer
+SDSU
+1986
+4
+4
+Mary Calcott Elem. School
+R
+1986
+4
+Crossroads School (Pre-K-8)
+R
+1987
+4
+Crossroads School (Pre-K-8)
+R
+1988
+4
+Crossroads School (Pre-K-8)
+R
+1989
+4
+Oceanair Elementary School
+G
+1990
+4
+Oceanair Elementary School
+N
+1991
+4
+Oceanair Elementary School
+A
+1992
+4
+Oceanair Elementary School
+G
+1993
+1
+Oceanair Elementary School
+R
+1994
+1
+Oceanair Elementary School
+C
+1995
+1
+Coleman Place Elem. School
+N
+1996
+1
+Coleman Place Elem. School
+A
+1997
+1
+Coleman Place Elem. School
+N
+1998
+K
+Coleman Place Elem. School
+N
+1999
+K
+Coleman Place Elem. School
+H
+2000
+K
+Coleman Place Elem. School
+R
+2001
+4
+Coleman Place Elem. School
+C
+2002
+4
+Coleman Place Elem. School
+H
+2003
+5
+Coleman Place Elem. School
+C
+2004
+5
+Coleman Place Elem. School
+H
+2005
+5
+Coleman Place Elem. School
+A
+2006
+5
+Coleman Place Elem. School
+H
+2007
+5
+Camp Allen Elementary School
+C
+2008
+5
+Camp Allen Elementary School
+N
+2009
+5
+Camp Allen Elementary School
+N
+2010
+5
+Camp Allen Elementary School
+R
+2011
+1
+Camp Allen Elementary School
+C
+2012
+2
+Camp Allen Elementary School
+H
+2013
+2
+Camp Allen Elementary School
+R
+2014
+2
+Camp Allen Elementary School
+R
+2015
+///
+Daniell Cancel
+UTEP
+1989
+4
+4
+Sewells Point Elem. School
+G
+1989
+4
+Sewells Point Elem. School
+R
+1990
+1
+Sewells Point Elem. School
+H
+1991
+1
+Sewells Point Elem. School
+H
+1992
+1
+Sewells Point Elem. School
+G
+1993
+1
+Sewells Point Elem. School
+N
+1994
+1
+Sewells Point Elem. School
+G
+1995
+1
+Sewells Point Elem. School
+R
+1996
+1
+Sewells Point Elem. School
+A
+1997
+1
+Sewells Point Elem. School
+A
+1998
+3
+Sewells Point Elem. School
+G
+1999
+3
+Tanners Creek Elem. School
+H
+2000
+3
+Tanners Creek Elem. School
+N
+2001
+K
+Tanners Creek Elem. School
+H
+2002
+K
+Tanners Creek Elem. School
+G
+2003
+K
+Tanners Creek Elem. School
+A
+2004
+K
+Tanners Creek Elem. School
+N
+2005
+K
+Tanners Creek Elem. School
+R
+2006
+K
+Tanners Creek Elem. School
+C
+2007
+4
+Tanners Creek Elem. School
+N
+2008
+4
+Lindenwood Elementary School
+R
+2009
+4
+Lindenwood Elementary School
+R
+2010
+4
+Lindenwood Elementary School
+N
+2011
+K
+Lindenwood Elementary School
+R
+2012
+2
+Lindenwood Elementary School
+N
+2013
+2
+Lindenwood Elementary School
+H
+2014
+2
+Lindenwood Elementary School
+N
+2015
+///
+Florrie Morton
+K
+2011
+5
+K
+Poplar Halls Elem. School
+H
+2011
+K
+Poplar Halls Elem. School
+N
+2012
+K
+Poplar Halls Elem. School
+A
+2013
+5
+Poplar Halls Elem. School
+C
+2014
+3
+Poplar Halls Elem. School
+G
+2015
+///
+Eladia Bogle
+PLNU
+2007
+2
+K
+Tarrallton Elementary School
+A
+2007
+K
+Tarrallton Elementary School
+A
+2008
+K
+Tarrallton Elementary School
+G
+2009
+K
+Tarrallton Elementary School
+C
+2010
+K
+Tarrallton Elementary School
+C
+2011
+2
+Tarrallton Elementary School
+G
+2012
+2
+Tarrallton Elementary School
+A
+2013
+1
+Tarrallton Elementary School
+C
+2014
+1
+Ingleside Elementary School
+N
+2015
+///
+Chanel Marinaro
+RU
+2010
+3
+K
+Chesterfield Academy
+G
+2010
+K
+Chesterfield Academy
+G
+2011
+K
+Chesterfield Academy
+G
+2012
+K
+Chesterfield Academy
+R
+2013
+3
+Chesterfield Academy
+C
+2014
+3
+Chesterfield Academy
+H
+2015
+///
+Angelica Cranford
+UNI
+1989
+3
+4
+Camp Allen Elementary School
+H
+1989
+4
+Camp Allen Elementary School
+R
+1990
+4
+St. Helena Elementary School
+R
+1991
+1
+St. Helena Elementary School
+A
+1992
+1
+P.B. Young, Sr. Elem. School
+R
+1993
+1
+P.B. Young, Sr. Elem. School
+C
+1994
+1
+P.B. Young, Sr. Elem. School
+H
+1995
+1
+P.B. Young, Sr. Elem. School
+G
+1996
+1
+P.B. Young, Sr. Elem. School
+R
+1997
+1
+P.B. Young, Sr. Elem. School
+R
+1998
+1
+P.B. Young, Sr. Elem. School
+R
+1999
+1
+P.B. Young, Sr. Elem. School
+C
+2000
+1
+P.B. Young, Sr. Elem. School
+N
+2001
+K
+P.B. Young, Sr. Elem. School
+R
+2002
+K
+P.B. Young, Sr. Elem. School
+A
+2003
+K
+P.B. Young, Sr. Elem. School
+C
+2004
+4
+P.B. Young, Sr. Elem. School
+N
+2005
+4
+P.B. Young, Sr. Elem. School
+R
+2006
+4
+P.B. Young, Sr. Elem. School
+C
+2007
+4
+P.B. Young, Sr. Elem. School
+G
+2008
+4
+P.B. Young, Sr. Elem. School
+A
+2009
+4
+P.B. Young, Sr. Elem. School
+G
+2010
+4
+P.B. Young, Sr. Elem. School
+C
+2011
+3
+P.B. Young, Sr. Elem. School
+A
+2012
+3
+Chesterfield Academy
+H
+2013
+1
+Chesterfield Academy
+C
+2014
+1
+Chesterfield Academy
+H
+2015
+///
+Willia Favors
+CSU
+1994
+4
+1
+Norview Elementary School
+R
+1994
+1
+Acad. For Discovery Lakewood
+R
+1995
+1
+Acad. For Discovery Lakewood
+C
+1996
+1
+Acad. For Discovery Lakewood
+C
+1997
+1
+Acad. For Discovery Lakewood
+G
+1998
+5
+Acad. For Discovery Lakewood
+C
+1999
+5
+Acad. For Discovery Lakewood
+H
+2000
+5
+Acad. For Discovery Lakewood
+R
+2001
+5
+Acad. For Discovery Lakewood
+A
+2002
+5
+Acad. For Discovery Lakewood
+C
+2003
+5
+Acad. For Discovery Lakewood
+A
+2004
+5
+Acad. For Discovery Lakewood
+N
+2005
+5
+Bay View Elementary School
+R
+2006
+2
+Bay View Elementary School
+A
+2007
+2
+Bay View Elementary School
+G
+2008
+K
+Larrymore Elementary School
+H
+2009
+5
+Larrymore Elementary School
+A
+2010
+5
+Larrymore Elementary School
+A
+2011
+1
+Larrymore Elementary School
+G
+2012
+1
+Larrymore Elementary School
+R
+2013
+3
+Larrymore Elementary School
+G
+2014
+3
+Larrymore Elementary School
+H
+2015
+///
+Daniell Vandermeer
+UAPB
+2006
+2
+4
+Poplar Halls Elem. School
+A
+2006
+4
+Poplar Halls Elem. School
+A
+2007
+2
+Richard Bowling Elem. School
+A
+2008
+2
+Richard Bowling Elem. School
+G
+2009
+2
+Richard Bowling Elem. School
+C
+2010
+2
+Richard Bowling Elem. School
+G
+2011
+2
+Richard Bowling Elem. School
+G
+2012
+2
+Richard Bowling Elem. School
+N
+2013
+2
+Richard Bowling Elem. School
+G
+2014
+5
+Richard Bowling Elem. School
+H
+2015
+///
+Daniell Braden
+F&M
+2015
+1
+1
+Tanners Creek Elem. School
+H
+2015
+///
+Manda Melder
+W&J
+2015
+5
+3
+Acad. For Discovery Lakewood
+R
+2015
+///
+Dionna Lancon
+SIUE
+2011
+1
+2
+Willard Model Elem. School
+G
+2011
+2
+Willard Model Elem. School
+G
+2012
+2
+Willard Model Elem. School
+A
+2013
+2
+Willard Model Elem. School
+H
+2014
+2
+Crossroads School (Pre-K-8)
+H
+2015
+///
+Nancy Qualls
+De Anza
+2006
+3
+4
+W.H. Taylor Elem. School
+N
+2006
+4
+W.H. Taylor Elem. School
+C
+2007
+2
+W.H. Taylor Elem. School
+C
+2008
+2
+W.H. Taylor Elem. School
+A
+2009
+2
+W.H. Taylor Elem. School
+A
+2010
+2
+W.H. Taylor Elem. School
+C
+2011
+2
+W.H. Taylor Elem. School
+N
+2012
+2
+W.H. Taylor Elem. School
+H
+2013
+3
+W.H. Taylor Elem. School
+C
+2014
+3
+Granby Elementary School
+A
+2015
+///
+Jinny Reilley
+UC Irvine
+1990
+5
+5
+Willoughby Elementary School
+N
+1990
+5
+Willoughby Elementary School
+H
+1991
+5
+Willoughby Elementary School
+N
+1992
+4
+Willoughby Elementary School
+H
+1993
+3
+Coleman Place Elem. School
+A
+1994
+1
+Coleman Place Elem. School
+H
+1995
+1
+Coleman Place Elem. School
+C
+1996
+1
+Coleman Place Elem. School
+G
+1997
+1
+Coleman Place Elem. School
+G
+1998
+1
+Coleman Place Elem. School
+A
+1999
+K
+Coleman Place Elem. School
+H
+2000
+1
+Coleman Place Elem. School
+R
+2001
+1
+Coleman Place Elem. School
+A
+2002
+1
+Coleman Place Elem. School
+G
+2003
+1
+Coleman Place Elem. School
+N
+2004
+1
+Coleman Place Elem. School
+C
+2005
+1
+Coleman Place Elem. School
+C
+2006
+1
+Coleman Place Elem. School
+N
+2007
+1
+Coleman Place Elem. School
+C
+2008
+1
+Coleman Place Elem. School
+N
+2009
+1
+Coleman Place Elem. School
+R
+2010
+1
+Coleman Place Elem. School
+H
+2011
+1
+Coleman Place Elem. School
+A
+2012
+1
+Coleman Place Elem. School
+H
+2013
+1
+Coleman Place Elem. School
+R
+2014
+1
+Coleman Place Elem. School
+R
+2015
+///
+Birgit Broeckel
+Ole Miss
+1997
+2
+2
+Mary Calcott Elem. School
+N
+1997
+2
+Mary Calcott Elem. School
+G
+1998
+2
+Mary Calcott Elem. School
+C
+1999
+K
+Mary Calcott Elem. School
+H
+2000
+K
+Mary Calcott Elem. School
+H
+2001
+3
+Mary Calcott Elem. School
+N
+2002
+3
+Mary Calcott Elem. School
+G
+2003
+3
+Mary Calcott Elem. School
+G
+2004
+1
+Mary Calcott Elem. School
+N
+2005
+1
+Mary Calcott Elem. School
+C
+2006
+1
+Mary Calcott Elem. School
+C
+2007
+1
+Mary Calcott Elem. School
+H
+2008
+1
+Mary Calcott Elem. School
+G
+2009
+K
+Sewells Point Elem. School
+C
+2010
+K
+Sewells Point Elem. School
+N
+2011
+K
+Sewells Point Elem. School
+H
+2012
+K
+Sewells Point Elem. School
+A
+2013
+K
+Sewells Point Elem. School
+R
+2014
+K
+Bay View Elementary School
+G
+2015
+///
+Eura Minnis
+Reserve
+2012
+5
+4
+Chesterfield Academy
+R
+2012
+4
+Chesterfield Academy
+C
+2013
+4
+Chesterfield Academy
+C
+2014
+4
+Chesterfield Academy
+N
+2015
+///
+Linnie Lickteig
+WC
+1987
+4
+5
+Larrymore Elementary School
+C
+1987
+5
+Larrymore Elementary School
+A
+1988
+5
+Larrymore Elementary School
+H
+1989
+5
+Larrymore Elementary School
+C
+1990
+5
+Larrymore Elementary School
+R
+1991
+5
+Sherwood Forest Elem. School
+H
+1992
+5
+Sherwood Forest Elem. School
+A
+1993
+5
+Sherwood Forest Elem. School
+A
+1994
+5
+Ocean View Elementary School
+G
+1995
+1
+Ocean View Elementary School
+N
+1996
+1
+Ocean View Elementary School
+R
+1997
+1
+Ocean View Elementary School
+R
+1998
+5
+Ocean View Elementary School
+N
+1999
+5
+Ocean View Elementary School
+A
+2000
+5
+Ocean View Elementary School
+G
+2001
+5
+Ocean View Elementary School
+R
+2002
+5
+Ocean View Elementary School
+R
+2003
+1
+Ocean View Elementary School
+C
+2004
+1
+Ocean View Elementary School
+R
+2005
+1
+Ocean View Elementary School
+R
+2006
+2
+Ocean View Elementary School
+H
+2007
+1
+Ocean View Elementary School
+G
+2008
+1
+Coleman Place Elem. School
+R
+2009
+4
+Coleman Place Elem. School
+N
+2010
+4
+Coleman Place Elem. School
+N
+2011
+4
+Coleman Place Elem. School
+G
+2012
+1
+Coleman Place Elem. School
+H
+2013
+3
+Coleman Place Elem. School
+A
+2014
+3
+Coleman Place Elem. School
+G
+2015
+///
+Daniell Doyle
+SEMo
+2011
+2
+2
+P.B. Young, Sr. Elem. School
+R
+2011
+2
+P.B. Young, Sr. Elem. School
+R
+2012
+5
+P.B. Young, Sr. Elem. School
+A
+2013
+5
+P.B. Young, Sr. Elem. School
+C
+2014
+5
+Chesterfield Academy
+C
+2015
+///
+Lauralee Hanning
+NC A&T
+1997
+5
+K
+Poplar Halls Elem. School
+G
+1997
+K
+Poplar Halls Elem. School
+A
+1998
+4
+Poplar Halls Elem. School
+A
+1999
+1
+Poplar Halls Elem. School
+G
+2000
+1
+Poplar Halls Elem. School
+R
+2001
+1
+Poplar Halls Elem. School
+R
+2002
+1
+Poplar Halls Elem. School
+R
+2003
+1
+Poplar Halls Elem. School
+N
+2004
+1
+Poplar Halls Elem. School
+R
+2005
+1
+Poplar Halls Elem. School
+N
+2006
+3
+Poplar Halls Elem. School
+H
+2007
+3
+Poplar Halls Elem. School
+N
+2008
+3
+Poplar Halls Elem. School
+A
+2009
+3
+Crossroads School (Pre-K-8)
+C
+2010
+5
+Crossroads School (Pre-K-8)
+A
+2011
+5
+Crossroads School (Pre-K-8)
+N
+2012
+5
+Tarrallton Elementary School
+C
+2013
+5
+Tarrallton Elementary School
+G
+2014
+5
+Tarrallton Elementary School
+R
+2015
+///
+Pearline Gadsden
+UMD
+1987
+3
+4
+Larchmont Elementary School
+A
+1987
+4
+Larchmont Elementary School
+C
+1988
+4
+Larchmont Elementary School
+H
+1989
+4
+Larchmont Elementary School
+G
+1990
+4
+Larchmont Elementary School
+C
+1991
+4
+Larchmont Elementary School
+A
+1992
+4
+Larchmont Elementary School
+C
+1993
+4
+Larchmont Elementary School
+H
+1994
+5
+Larchmont Elementary School
+G
+1995
+5
+Larchmont Elementary School
+G
+1996
+5
+Larchmont Elementary School
+H
+1997
+5
+Larchmont Elementary School
+H
+1998
+5
+Larchmont Elementary School
+H
+1999
+5
+Larchmont Elementary School
+C
+2000
+3
+Camp Allen Elementary School
+A
+2001
+3
+Camp Allen Elementary School
+N
+2002
+3
+Camp Allen Elementary School
+H
+2003
+3
+Camp Allen Elementary School
+G
+2004
+3
+Camp Allen Elementary School
+G
+2005
+4
+Camp Allen Elementary School
+H
+2006
+4
+Camp Allen Elementary School
+C
+2007
+4
+Camp Allen Elementary School
+C
+2008
+3
+Camp Allen Elementary School
+G
+2009
+3
+Camp Allen Elementary School
+R
+2010
+3
+Camp Allen Elementary School
+N
+2011
+K
+Camp Allen Elementary School
+G
+2012
+K
+Camp Allen Elementary School
+G
+2013
+K
+Camp Allen Elementary School
+R
+2014
+2
+Willoughby Elementary School
+A
+2015
+///
+Manda Wescott
+UHV
+1988
+4
+5
+Sherwood Forest Elem. School
+G
+1988
+5
+Sherwood Forest Elem. School
+C
+1989
+4
+Sherwood Forest Elem. School
+R
+1990
+4
+Sherwood Forest Elem. School
+C
+1991
+1
+Sherwood Forest Elem. School
+G
+1992
+1
+P.B. Young, Sr. Elem. School
+A
+1993
+K
+Crossroads School (Pre-K-8)
+R
+1994
+K
+Crossroads School (Pre-K-8)
+C
+1995
+K
+Crossroads School (Pre-K-8)
+A
+1996
+3
+Crossroads School (Pre-K-8)
+N
+1997
+5
+Crossroads School (Pre-K-8)
+H
+1998
+5
+Crossroads School (Pre-K-8)
+C
+1999
+5
+Crossroads School (Pre-K-8)
+R
+2000
+5
+Crossroads School (Pre-K-8)
+H
+2001
+5
+Crossroads School (Pre-K-8)
+G
+2002
+5
+Crossroads School (Pre-K-8)
+N
+2003
+5
+Crossroads School (Pre-K-8)
+G
+2004
+5
+Crossroads School (Pre-K-8)
+G
+2005
+5
+Norview Elementary School
+N
+2006
+5
+Norview Elementary School
+H
+2007
+5
+Norview Elementary School
+H
+2008
+K
+Norview Elementary School
+N
+2009
+K
+Norview Elementary School
+C
+2010
+K
+Norview Elementary School
+N
+2011
+2
+Norview Elementary School
+N
+2012
+2
+Norview Elementary School
+G
+2013
+2
+Norview Elementary School
+A
+2014
+2
+Norview Elementary School
+A
+2015
+///
+Paula Wiggin
+UDM
+2004
+3
+1
+Mary Calcott Elem. School
+N
+2004
+1
+Mary Calcott Elem. School
+A
+2005
+1
+Ingleside Elementary School
+N
+2006
+1
+Ingleside Elementary School
+R
+2007
+K
+Ingleside Elementary School
+N
+2008
+K
+Ingleside Elementary School
+H
+2009
+K
+Ingleside Elementary School
+A
+2010
+4
+Ingleside Elementary School
+H
+2011
+4
+Ingleside Elementary School
+C
+2012
+4
+Ingleside Elementary School
+G
+2013
+4
+Ingleside Elementary School
+A
+2014
+2
+Ingleside Elementary School
+A
+2015
+///
+Lilly Okafor
+SOSU
+2005
+5
+K
+Larchmont Elementary School
+N
+2005
+K
+Larchmont Elementary School
+N
+2006
+K
+Larchmont Elementary School
+C
+2007
+K
+Larchmont Elementary School
+G
+2008
+K
+Larchmont Elementary School
+G
+2009
+2
+Larchmont Elementary School
+C
+2010
+2
+Larchmont Elementary School
+H
+2011
+3
+Larchmont Elementary School
+H
+2012
+4
+Larchmont Elementary School
+R
+2013
+4
+Larchmont Elementary School
+R
+2014
+3
+Larchmont Elementary School
+N
+2015
+///
+Paula Wharton
+NCSU
+1987
+2
+1
+Willard Model Elem. School
+R
+1987
+1
+Willard Model Elem. School
+C
+1988
+1
+Willard Model Elem. School
+A
+1989
+1
+Willard Model Elem. School
+N
+1990
+1
+Willard Model Elem. School
+G
+1991
+1
+Willard Model Elem. School
+N
+1992
+2
+Willard Model Elem. School
+R
+1993
+2
+Willard Model Elem. School
+R
+1994
+2
+Coleman Place Elem. School
+N
+1995
+2
+Coleman Place Elem. School
+R
+1996
+2
+Coleman Place Elem. School
+R
+1997
+2
+Coleman Place Elem. School
+N
+1998
+2
+Ocean View Elementary School
+N
+1999
+2
+Larchmont Elementary School
+G
+2000
+2
+Larchmont Elementary School
+N
+2001
+2
+Larchmont Elementary School
+A
+2002
+2
+Larchmont Elementary School
+H
+2003
+2
+Larchmont Elementary School
+C
+2004
+2
+Larchmont Elementary School
+H
+2005
+3
+Larchmont Elementary School
+R
+2006
+3
+Larchmont Elementary School
+R
+2007
+3
+Larchmont Elementary School
+A
+2008
+3
+Larchmont Elementary School
+R
+2009
+3
+Larchmont Elementary School
+N
+2010
+3
+Larchmont Elementary School
+H
+2011
+2
+Larchmont Elementary School
+A
+2012
+1
+Larchmont Elementary School
+C
+2013
+1
+Larchmont Elementary School
+H
+2014
+1
+Larchmont Elementary School
+A
+2015
+///
+January Perrine
+Cal Poly
+1999
+2
+2
+Jacox Elementary School
+H
+1999
+1
+Jacox Elementary School
+C
+2000
+1
+Jacox Elementary School
+H
+2001
+1
+Jacox Elementary School
+R
+2002
+1
+Jacox Elementary School
+A
+2003
+K
+Jacox Elementary School
+N
+2004
+K
+Camp Allen Elementary School
+C
+2005
+K
+Tidewater Park Elem. School
+N
+2006
+K
+Tidewater Park Elem. School
+N
+2007
+K
+Tidewater Park Elem. School
+C
+2008
+K
+Little Creek Elem. School
+G
+2009
+K
+Little Creek Elem. School
+R
+2010
+4
+Little Creek Elem. School
+H
+2011
+4
+Little Creek Elem. School
+N
+2012
+5
+Little Creek Elem. School
+A
+2013
+5
+Little Creek Elem. School
+G
+2014
+5
+Little Creek Elem. School
+A
+2015
+///
+Lauralee Greenhalgh
+VT
+2008
+3
+2
+Acad. For Discovery Lakewood
+R
+2008
+2
+Acad. For Discovery Lakewood
+C
+2009
+2
+Acad. For Discovery Lakewood
+R
+2010
+5
+Acad. For Discovery Lakewood
+G
+2011
+5
+Acad. For Discovery Lakewood
+N
+2012
+5
+Acad. For Discovery Lakewood
+G
+2013
+2
+Acad. For Discovery Lakewood
+C
+2014
+2
+Acad. For Discovery Lakewood
+C
+2015
+///
+Roxane Kennon
+BYU
+2003
+5
+5
+Crossroads School (Pre-K-8)
+G
+2003
+2
+Crossroads School (Pre-K-8)
+A
+2004
+2
+Crossroads School (Pre-K-8)
+A
+2005
+2
+Poplar Halls Elem. School
+C
+2006
+2
+Poplar Halls Elem. School
+N
+2007
+2
+Poplar Halls Elem. School
+R
+2008
+2
+Poplar Halls Elem. School
+C
+2009
+2
+Poplar Halls Elem. School
+A
+2010
+2
+Poplar Halls Elem. School
+H
+2011
+2
+Poplar Halls Elem. School
+R
+2012
+2
+Poplar Halls Elem. School
+A
+2013
+2
+Poplar Halls Elem. School
+N
+2014
+2
+Poplar Halls Elem. School
+N
+2015
+///
+Tessa Jack
+De Anza
+2005
+4
+3
+Willard Model Elem. School
+C
+2005
+3
+Willard Model Elem. School
+C
+2006
+3
+Willard Model Elem. School
+R
+2007
+3
+Willard Model Elem. School
+N
+2008
+3
+Willard Model Elem. School
+N
+2009
+3
+Willard Model Elem. School
+G
+2010
+3
+Willard Model Elem. School
+A
+2011
+3
+Willard Model Elem. School
+G
+2012
+3
+Willard Model Elem. School
+C
+2013
+3
+Willard Model Elem. School
+N
+2014
+4
+Willard Model Elem. School
+R
+2015
+///
+Remona Bosley
+ECU
+2012
+4
+5
+P.B. Young, Sr. Elem. School
+H
+2012
+5
+P.B. Young, Sr. Elem. School
+N
+2013
+5
+P.B. Young, Sr. Elem. School
+A
+2014
+5
+P.B. Young, Sr. Elem. School
+G
+2015
+///
+India Vassallo
+UND
+2014
+4
+4
+St. Helena Elementary School
+C
+2014
+4
+St. Helena Elementary School
+G
+2015
+///
+Roxane Gadsden
+UVU
+1993
+2
+5
+Poplar Halls Elem. School
+N
+1993
+1
+Poplar Halls Elem. School
+H
+1994
+1
+Poplar Halls Elem. School
+R
+1995
+1
+Poplar Halls Elem. School
+G
+1996
+1
+Poplar Halls Elem. School
+G
+1997
+1
+Poplar Halls Elem. School
+N
+1998
+K
+Poplar Halls Elem. School
+C
+1999
+K
+Poplar Halls Elem. School
+C
+2000
+K
+Poplar Halls Elem. School
+H
+2001
+K
+Poplar Halls Elem. School
+R
+2002
+K
+Poplar Halls Elem. School
+R
+2003
+2
+Poplar Halls Elem. School
+N
+2004
+2
+Poplar Halls Elem. School
+H
+2005
+2
+Poplar Halls Elem. School
+G
+2006
+2
+Poplar Halls Elem. School
+R
+2007
+2
+Poplar Halls Elem. School
+C
+2008
+2
+Sewells Point Elem. School
+R
+2009
+2
+Sewells Point Elem. School
+N
+2010
+2
+Sewells Point Elem. School
+G
+2011
+2
+Sewells Point Elem. School
+N
+2012
+2
+Sewells Point Elem. School
+N
+2013
+2
+Sewells Point Elem. School
+H
+2014
+2
+Sewells Point Elem. School
+A
+2015
+///
+Floria Macri
+USM
+1986
+4
+2
+Tarrallton Elementary School
+C
+1986
+5
+Tarrallton Elementary School
+G
+1987
+5
+Tarrallton Elementary School
+G
+1988
+5
+Tarrallton Elementary School
+A
+1989
+5
+Tarrallton Elementary School
+R
+1990
+4
+Tarrallton Elementary School
+R
+1991
+4
+Tarrallton Elementary School
+R
+1992
+K
+Tarrallton Elementary School
+C
+1993
+K
+St. Helena Elementary School
+C
+1994
+K
+Willard Model Elem. School
+R
+1995
+K
+Willard Model Elem. School
+H
+1996
+K
+Willard Model Elem. School
+N
+1997
+K
+Willard Model Elem. School
+G
+1998
+K
+Willard Model Elem. School
+A
+1999
+K
+Willard Model Elem. School
+R
+2000
+K
+Willard Model Elem. School
+A
+2001
+K
+Willard Model Elem. School
+C
+2002
+K
+Willard Model Elem. School
+N
+2003
+K
+Willard Model Elem. School
+R
+2004
+K
+Larrymore Elementary School
+R
+2005
+5
+Larrymore Elementary School
+G
+2006
+5
+Larrymore Elementary School
+R
+2007
+5
+Larrymore Elementary School
+N
+2008
+5
+Larrymore Elementary School
+R
+2009
+5
+Larrymore Elementary School
+N
+2010
+5
+Larrymore Elementary School
+A
+2011
+5
+Larrymore Elementary School
+C
+2012
+5
+Larrymore Elementary School
+A
+2013
+2
+Larrymore Elementary School
+G
+2014
+2
+Larrymore Elementary School
+C
+2015
+///
+Suzi Macri
+CNU
+2006
+3
+K
+Larchmont Elementary School
+A
+2006
+4
+Larchmont Elementary School
+G
+2007
+4
+Larchmont Elementary School
+R
+2008
+1
+Larchmont Elementary School
+C
+2009
+1
+Larchmont Elementary School
+C
+2010
+1
+Larchmont Elementary School
+G
+2011
+1
+Larchmont Elementary School
+N
+2012
+1
+Larchmont Elementary School
+R
+2013
+1
+Larchmont Elementary School
+G
+2014
+1
+Larchmont Elementary School
+A
+2015
+///
+Nancy Cordle
+FC
+2011
+1
+4
+Campostella Elem. School
+H
+2011
+3
+Campostella Elem. School
+N
+2012
+3
+Campostella Elem. School
+H
+2013
+3
+Campostella Elem. School
+R
+2014
+3
+Campostella Elem. School
+C
+2015
+///
+Exie Wiggin
+TxSt
+2005
+5
+3
+Acad. For Discovery Lakewood
+H
+2005
+3
+Acad. For Discovery Lakewood
+A
+2006
+3
+Acad. For Discovery Lakewood
+C
+2007
+4
+Acad. For Discovery Lakewood
+C
+2008
+4
+Acad. For Discovery Lakewood
+G
+2009
+4
+Acad. For Discovery Lakewood
+H
+2010
+4
+Acad. For Discovery Lakewood
+A
+2011
+4
+Acad. For Discovery Lakewood
+H
+2012
+3
+St. Helena Elementary School
+G
+2013
+5
+St. Helena Elementary School
+G
+2014
+5
+St. Helena Elementary School
+G
+2015
+///
+Rene Silverstein
+SWOSU
+2014
+4
+5
+Sewells Point Elem. School
+C
+2014
+5
+Sewells Point Elem. School
+N
+2015
+///
+Angelica Dengler
+Brown
+2007
+2
+1
+Fairlawn Elementary School
+H
+2007
+5
+Fairlawn Elementary School
+H
+2008
+5
+Fairlawn Elementary School
+R
+2009
+4
+Fairlawn Elementary School
+G
+2010
+4
+Fairlawn Elementary School
+N
+2011
+4
+Fairlawn Elementary School
+N
+2012
+4
+Fairlawn Elementary School
+C
+2013
+1
+Fairlawn Elementary School
+H
+2014
+1
+Fairlawn Elementary School
+G
+2015
+///
+Liz Wainright
+NC A&T
+1991
+2
+3
+Willard Model Elem. School
+N
+1991
+3
+Willard Model Elem. School
+R
+1992
+3
+Willard Model Elem. School
+G
+1993
+2
+Willard Model Elem. School
+G
+1994
+4
+Willard Model Elem. School
+C
+1995
+4
+Willard Model Elem. School
+R
+1996
+4
+Willard Model Elem. School
+C
+1997
+4
+Willard Model Elem. School
+G
+1998
+4
+Willard Model Elem. School
+R
+1999
+4
+Willard Model Elem. School
+G
+2000
+4
+Willard Model Elem. School
+R
+2001
+2
+Willard Model Elem. School
+H
+2002
+K
+Willard Model Elem. School
+H
+2003
+1
+Willard Model Elem. School
+R
+2004
+1
+Willard Model Elem. School
+R
+2005
+1
+Willard Model Elem. School
+G
+2006
+1
+Willard Model Elem. School
+R
+2007
+1
+Willard Model Elem. School
+R
+2008
+1
+Willard Model Elem. School
+G
+2009
+1
+Willard Model Elem. School
+H
+2010
+1
+Willard Model Elem. School
+C
+2011
+4
+Willard Model Elem. School
+C
+2012
+4
+Willard Model Elem. School
+R
+2013
+1
+Willard Model Elem. School
+C
+2014
+3
+Willard Model Elem. School
+N
+2015
+///
+Gudrun Bly
+U of S
+2010
+5
+K
+Acad. For Discovery Lakewood
+R
+2010
+5
+Sherwood Forest Elem. School
+G
+2011
+1
+Sherwood Forest Elem. School
+R
+2012
+1
+Sherwood Forest Elem. School
+C
+2013
+1
+Oceanair Elementary School
+C
+2014
+1
+Oceanair Elementary School
+A
+2015
+///
+Coletta Basil
+UNF
+2001
+3
+4
+Larchmont Elementary School
+G
+2001
+4
+Larchmont Elementary School
+A
+2002
+4
+Larchmont Elementary School
+A
+2003
+K
+Larchmont Elementary School
+C
+2004
+3
+Larchmont Elementary School
+C
+2005
+3
+Larchmont Elementary School
+G
+2006
+K
+Larchmont Elementary School
+A
+2007
+K
+Larchmont Elementary School
+N
+2008
+3
+Larchmont Elementary School
+A
+2009
+4
+Larchmont Elementary School
+R
+2010
+4
+Larchmont Elementary School
+R
+2011
+K
+Larchmont Elementary School
+G
+2012
+K
+Larchmont Elementary School
+C
+2013
+K
+Larchmont Elementary School
+C
+2014
+K
+Larchmont Elementary School
+H
+2015
+///
+Manda Ekhoff
+BSC
+1999
+4
+2
+Coleman Place Elem. School
+N
+1999
+2
+Coleman Place Elem. School
+H
+2000
+2
+Coleman Place Elem. School
+N
+2001
+2
+Larrymore Elementary School
+C
+2002
+2
+Larrymore Elementary School
+G
+2003
+3
+Larrymore Elementary School
+C
+2004
+3
+Larrymore Elementary School
+N
+2005
+3
+Larrymore Elementary School
+A
+2006
+4
+Larrymore Elementary School
+R
+2007
+4
+Larrymore Elementary School
+A
+2008
+1
+Larrymore Elementary School
+N
+2009
+1
+Larrymore Elementary School
+R
+2010
+1
+James Monroe Elem. School
+H
+2011
+1
+James Monroe Elem. School
+G
+2012
+K
+James Monroe Elem. School
+C
+2013
+K
+James Monroe Elem. School
+N
+2014
+K
+James Monroe Elem. School
+A
+2015
+///
+Chanel Wescott
+Ole Miss
+2003
+5
+K
+Coleman Place Elem. School
+R
+2003
+K
+Coleman Place Elem. School
+A
+2004
+K
+Coleman Place Elem. School
+G
+2005
+2
+Coleman Place Elem. School
+C
+2006
+2
+Bay View Elementary School
+H
+2007
+3
+Bay View Elementary School
+G
+2008
+3
+Crossroads School (Pre-K-8)
+N
+2009
+K
+Lindenwood Elementary School
+R
+2010
+1
+Lindenwood Elementary School
+A
+2011
+1
+Lindenwood Elementary School
+C
+2012
+1
+Lindenwood Elementary School
+H
+2013
+1
+Lindenwood Elementary School
+A
+2014
+1
+Lindenwood Elementary School
+R
+2015
+///
+Waneta Spitzer
+UNLV
+1992
+3
+3
+Richard Bowling Elem. School
+G
+1992
+3
+Richard Bowling Elem. School
+G
+1993
+2
+Richard Bowling Elem. School
+C
+1994
+2
+Tidewater Park Elem. School
+N
+1995
+2
+Tidewater Park Elem. School
+C
+1996
+2
+Tidewater Park Elem. School
+N
+1997
+2
+P.B. Young, Sr. Elem. School
+N
+1998
+2
+P.B. Young, Sr. Elem. School
+C
+1999
+2
+P.B. Young, Sr. Elem. School
+H
+2000
+2
+P.B. Young, Sr. Elem. School
+R
+2001
+2
+Acad. For Discovery Lakewood
+C
+2002
+5
+Acad. For Discovery Lakewood
+G
+2003
+2
+Acad. For Discovery Lakewood
+H
+2004
+2
+Acad. For Discovery Lakewood
+R
+2005
+2
+Acad. For Discovery Lakewood
+A
+2006
+1
+Acad. For Discovery Lakewood
+R
+2007
+1
+Acad. For Discovery Lakewood
+H
+2008
+1
+Acad. For Discovery Lakewood
+N
+2009
+K
+Acad. For Discovery Lakewood
+C
+2010
+K
+Acad. For Discovery Lakewood
+H
+2011
+K
+Acad. For Discovery Lakewood
+R
+2012
+K
+Acad. For Discovery Lakewood
+C
+2013
+K
+Acad. For Discovery Lakewood
+A
+2014
+5
+Acad. For Discovery Lakewood
+G
+2015
+///
+Lola Wainright
+WFU
+1995
+3
+4
+Granby Elementary School
+G
+1995
+K
+Granby Elementary School
+H
+1996
+K
+Granby Elementary School
+C
+1997
+K
+Granby Elementary School
+G
+1998
+2
+Granby Elementary School
+A
+1999
+4
+Granby Elementary School
+A
+2000
+4
+Granby Elementary School
+G
+2001
+4
+Granby Elementary School
+A
+2002
+4
+Granby Elementary School
+N
+2003
+4
+Granby Elementary School
+A
+2004
+4
+Granby Elementary School
+H
+2005
+4
+Granby Elementary School
+H
+2006
+4
+Granby Elementary School
+C
+2007
+4
+Granby Elementary School
+A
+2008
+5
+Granby Elementary School
+N
+2009
+5
+Granby Elementary School
+C
+2010
+4
+Granby Elementary School
+N
+2011
+4
+Granby Elementary School
+R
+2012
+4
+Granby Elementary School
+H
+2013
+K
+Granby Elementary School
+A
+2014
+K
+Granby Elementary School
+G
+2015
+///
+Kati Minnis
+Capitol
+1990
+3
+3
+Tarrallton Elementary School
+A
+1990
+K
+Tarrallton Elementary School
+A
+1991
+K
+Tarrallton Elementary School
+H
+1992
+K
+Tarrallton Elementary School
+G
+1993
+K
+Tarrallton Elementary School
+G
+1994
+1
+Tarrallton Elementary School
+C
+1995
+5
+Larrymore Elementary School
+A
+1996
+K
+Larrymore Elementary School
+A
+1997
+K
+Larrymore Elementary School
+H
+1998
+K
+Norview Elementary School
+A
+1999
+K
+Norview Elementary School
+H
+2000
+K
+Norview Elementary School
+A
+2001
+K
+Norview Elementary School
+H
+2002
+K
+Norview Elementary School
+R
+2003
+3
+Norview Elementary School
+C
+2004
+3
+Norview Elementary School
+N
+2005
+3
+Norview Elementary School
+H
+2006
+3
+Norview Elementary School
+N
+2007
+3
+Norview Elementary School
+G
+2008
+3
+Richard Bowling Elem. School
+N
+2009
+2
+Richard Bowling Elem. School
+G
+2010
+2
+Richard Bowling Elem. School
+N
+2011
+2
+Richard Bowling Elem. School
+A
+2012
+2
+Richard Bowling Elem. School
+C
+2013
+2
+Richard Bowling Elem. School
+R
+2014
+2
+Richard Bowling Elem. School
+G
+2015
+///
+My Hottle
+NW
+1992
+1
+4
+Crossroads School (Pre-K-8)
+C
+1992
+4
+Campostella Elem. School
+A
+1993
+4
+Campostella Elem. School
+A
+1994
+2
+Campostella Elem. School
+N
+1995
+2
+Campostella Elem. School
+C
+1996
+2
+Campostella Elem. School
+R
+1997
+3
+Campostella Elem. School
+N
+1998
+3
+Campostella Elem. School
+N
+1999
+3
+Campostella Elem. School
+C
+2000
+3
+Campostella Elem. School
+H
+2001
+3
+Granby Elementary School
+G
+2002
+3
+Oceanair Elementary School
+C
+2003
+3
+Oceanair Elementary School
+R
+2004
+5
+Oceanair Elementary School
+N
+2005
+5
+Oceanair Elementary School
+R
+2006
+5
+Oceanair Elementary School
+H
+2007
+K
+James Monroe Elem. School
+R
+2008
+K
+James Monroe Elem. School
+N
+2009
+K
+James Monroe Elem. School
+G
+2010
+K
+James Monroe Elem. School
+A
+2011
+K
+James Monroe Elem. School
+C
+2012
+K
+James Monroe Elem. School
+A
+2013
+K
+James Monroe Elem. School
+H
+2014
+K
+James Monroe Elem. School
+A
+2015
+///
+Jinny Espitia
+UNO
+2010
+5
+2
+Coleman Place Elem. School
+C
+2010
+3
+Coleman Place Elem. School
+G
+2011
+3
+Coleman Place Elem. School
+C
+2012
+3
+Acad. For Discovery Lakewood
+H
+2013
+3
+Acad. For Discovery Lakewood
+C
+2014
+3
+Acad. For Discovery Lakewood
+G
+2015
+///
+Britney Veasley
+K
+2004
+5
+4
+Acad. For Discovery Lakewood
+N
+2004
+4
+Acad. For Discovery Lakewood
+C
+2005
+4
+Acad. For Discovery Lakewood
+N
+2006
+4
+Acad. For Discovery Lakewood
+C
+2007
+K
+Acad. For Discovery Lakewood
+C
+2008
+K
+Acad. For Discovery Lakewood
+G
+2009
+K
+Acad. For Discovery Lakewood
+H
+2010
+K
+Acad. For Discovery Lakewood
+C
+2011
+K
+Acad. For Discovery Lakewood
+A
+2012
+K
+Acad. For Discovery Lakewood
+H
+2013
+2
+Acad. For Discovery Lakewood
+G
+2014
+4
+Acad. For Discovery Lakewood
+H
+2015
+///
+Coletta Qualls
+UVA
+1987
+2
+2
+Sherwood Forest Elem. School
+N
+1987
+2
+Sherwood Forest Elem. School
+R
+1988
+1
+Sherwood Forest Elem. School
+C
+1989
+1
+Crossroads School (Pre-K-8)
+N
+1990
+1
+Jacox Elementary School
+C
+1991
+2
+Jacox Elementary School
+G
+1992
+2
+Jacox Elementary School
+H
+1993
+2
+Jacox Elementary School
+G
+1994
+2
+Larchmont Elementary School
+R
+1995
+2
+Coleman Place Elem. School
+G
+1996
+4
+Coleman Place Elem. School
+H
+1997
+4
+Coleman Place Elem. School
+R
+1998
+4
+Coleman Place Elem. School
+A
+1999
+4
+Coleman Place Elem. School
+A
+2000
+4
+Coleman Place Elem. School
+G
+2001
+4
+Norview Elementary School
+R
+2002
+4
+Norview Elementary School
+H
+2003
+4
+Norview Elementary School
+N
+2004
+4
+Norview Elementary School
+C
+2005
+4
+Norview Elementary School
+N
+2006
+4
+Norview Elementary School
+C
+2007
+4
+Norview Elementary School
+G
+2008
+1
+Norview Elementary School
+R
+2009
+1
+Norview Elementary School
+R
+2010
+1
+Norview Elementary School
+R
+2011
+1
+Norview Elementary School
+G
+2012
+1
+Norview Elementary School
+R
+2013
+5
+Norview Elementary School
+R
+2014
+5
+Norview Elementary School
+R
+2015
+///
+Errol Larin
+UMO
+1999
+1
+2
+Mary Calcott Elem. School
+G
+1999
+2
+Mary Calcott Elem. School
+A
+2000
+2
+Mary Calcott Elem. School
+A
+2001
+3
+Mary Calcott Elem. School
+N
+2002
+3
+Tidewater Park Elem. School
+G
+2003
+K
+Tidewater Park Elem. School
+N
+2004
+K
+Tidewater Park Elem. School
+A
+2005
+K
+Tidewater Park Elem. School
+A
+2006
+K
+Tidewater Park Elem. School
+N
+2007
+K
+Tidewater Park Elem. School
+A
+2008
+2
+Tidewater Park Elem. School
+A
+2009
+2
+Tidewater Park Elem. School
+H
+2010
+2
+Tidewater Park Elem. School
+G
+2011
+2
+Tidewater Park Elem. School
+G
+2012
+2
+Tidewater Park Elem. School
+R
+2013
+1
+Tidewater Park Elem. School
+G
+2014
+1
+Bay View Elementary School
+H
+2015
+///
+Manda Sauceda
+IUP
+1988
+1
+1
+Campostella Elem. School
+N
+1988
+1
+Campostella Elem. School
+G
+1989
+1
+Campostella Elem. School
+C
+1990
+1
+Campostella Elem. School
+H
+1991
+5
+Campostella Elem. School
+N
+1992
+5
+Campostella Elem. School
+N
+1993
+2
+Campostella Elem. School
+C
+1994
+2
+Campostella Elem. School
+N
+1995
+2
+Campostella Elem. School
+H
+1996
+2
+Larchmont Elementary School
+R
+1997
+2
+Larchmont Elementary School
+H
+1998
+5
+Larchmont Elementary School
+R
+1999
+5
+Larchmont Elementary School
+N
+2000
+5
+Larchmont Elementary School
+H
+2001
+5
+Larchmont Elementary School
+R
+2002
+4
+Larchmont Elementary School
+C
+2003
+4
+Larchmont Elementary School
+R
+2004
+4
+Larchmont Elementary School
+H
+2005
+4
+Larchmont Elementary School
+R
+2006
+4
+Larchmont Elementary School
+R
+2007
+4
+Larchmont Elementary School
+A
+2008
+4
+Larchmont Elementary School
+N
+2009
+4
+Larchmont Elementary School
+G
+2010
+4
+Larchmont Elementary School
+R
+2011
+4
+Larchmont Elementary School
+H
+2012
+4
+Larchmont Elementary School
+A
+2013
+4
+Larchmont Elementary School
+A
+2014
+4
+Larchmont Elementary School
+H
+2015
+///
+Carli Kuhn
+LU
+1995
+4
+1
+Sewells Point Elem. School
+R
+1995
+1
+Sewells Point Elem. School
+A
+1996
+1
+Sewells Point Elem. School
+R
+1997
+1
+Sewells Point Elem. School
+C
+1998
+2
+Larchmont Elementary School
+H
+1999
+1
+Larchmont Elementary School
+G
+2000
+5
+Chesterfield Academy
+C
+2001
+5
+Chesterfield Academy
+R
+2002
+5
+Chesterfield Academy
+G
+2003
+5
+Ingleside Elementary School
+C
+2004
+5
+Willoughby Elementary School
+N
+2005
+K
+Willoughby Elementary School
+R
+2006
+K
+Willoughby Elementary School
+H
+2007
+K
+Willoughby Elementary School
+G
+2008
+K
+Willoughby Elementary School
+G
+2009
+K
+Norview Elementary School
+C
+2010
+K
+W.H. Taylor Elem. School
+C
+2011
+K
+W.H. Taylor Elem. School
+N
+2012
+K
+W.H. Taylor Elem. School
+R
+2013
+K
+W.H. Taylor Elem. School
+A
+2014
+K
+W.H. Taylor Elem. School
+A
+2015
+///
+Dionna Burke
+UCSD
+2011
+2
+1
+Suburban Park Elem. School
+N
+2011
+1
+Suburban Park Elem. School
+N
+2012
+3
+Suburban Park Elem. School
+R
+2013
+2
+Suburban Park Elem. School
+R
+2014
+2
+Suburban Park Elem. School
+C
+2015
+///
+Deidra Wiggin
+Army
+2001
+1
+3
+Willard Model Elem. School
+R
+2001
+3
+Willard Model Elem. School
+N
+2002
+3
+Willard Model Elem. School
+R
+2003
+4
+Willard Model Elem. School
+N
+2004
+4
+Willard Model Elem. School
+C
+2005
+4
+Willard Model Elem. School
+C
+2006
+4
+Tarrallton Elementary School
+C
+2007
+4
+Tarrallton Elementary School
+R
+2008
+4
+Tarrallton Elementary School
+G
+2009
+4
+Tarrallton Elementary School
+N
+2010
+2
+Tarrallton Elementary School
+C
+2011
+1
+Tarrallton Elementary School
+A
+2012
+1
+Tarrallton Elementary School
+H
+2013
+1
+Tarrallton Elementary School
+H
+2014
+5
+Tarrallton Elementary School
+A
+2015
+///
+My Vazguez
+UCCS
+2009
+2
+4
+James Monroe Elem. School
+N
+2009
+4
+James Monroe Elem. School
+G
+2010
+4
+W.H. Taylor Elem. School
+R
+2011
+4
+W.H. Taylor Elem. School
+N
+2012
+4
+W.H. Taylor Elem. School
+R
+2013
+4
+W.H. Taylor Elem. School
+H
+2014
+4
+W.H. Taylor Elem. School
+R
+2015
+///
+Floria Lamotte
+VTC
+1997
+4
+3
+Bay View Elementary School
+A
+1997
+3
+Bay View Elementary School
+G
+1998
+3
+Bay View Elementary School
+R
+1999
+3
+Bay View Elementary School
+C
+2000
+3
+Bay View Elementary School
+N
+2001
+1
+Bay View Elementary School
+R
+2002
+1
+Bay View Elementary School
+H
+2003
+3
+Bay View Elementary School
+C
+2004
+3
+Bay View Elementary School
+C
+2005
+2
+Bay View Elementary School
+N
+2006
+5
+Bay View Elementary School
+G
+2007
+5
+Tidewater Park Elem. School
+N
+2008
+5
+Granby Elementary School
+H
+2009
+5
+Granby Elementary School
+G
+2010
+5
+Granby Elementary School
+N
+2011
+5
+Granby Elementary School
+G
+2012
+3
+Granby Elementary School
+R
+2013
+3
+Granby Elementary School
+G
+2014
+K
+Richard Bowling Elem. School
+N
+2015
+///
+Manda Milian
+UH
+2001
+3
+1
+Sherwood Forest Elem. School
+H
+2001
+1
+Sherwood Forest Elem. School
+R
+2002
+K
+Sherwood Forest Elem. School
+N
+2003
+1
+Sherwood Forest Elem. School
+C
+2004
+1
+Sherwood Forest Elem. School
+R
+2005
+1
+Sherwood Forest Elem. School
+C
+2006
+1
+Sherwood Forest Elem. School
+N
+2007
+4
+Sherwood Forest Elem. School
+G
+2008
+4
+Sherwood Forest Elem. School
+G
+2009
+4
+Sherwood Forest Elem. School
+R
+2010
+4
+Sherwood Forest Elem. School
+A
+2011
+4
+Sherwood Forest Elem. School
+H
+2012
+4
+Sherwood Forest Elem. School
+H
+2013
+2
+Sherwood Forest Elem. School
+C
+2014
+2
+Sherwood Forest Elem. School
+H
+2015
+///
+Yulanda Vazguez
+Cal Poly
+2013
+4
+1
+Campostella Elem. School
+G
+2013
+5
+Campostella Elem. School
+A
+2014
+5
+Campostella Elem. School
+C
+2015
+///
+Mica Wingard
+ENC
+2014
+3
+4
+Mary Calcott Elem. School
+A
+2014
+K
+Mary Calcott Elem. School
+C
+2015
+///
+Lauralee Kyser
+MTU
+1985
+5
+1
+Richard Bowling Elem. School
+R
+1985
+1
+Richard Bowling Elem. School
+R
+1986
+1
+Richard Bowling Elem. School
+G
+1987
+2
+Willard Model Elem. School
+G
+1988
+5
+Willard Model Elem. School
+G
+1989
+5
+Willard Model Elem. School
+G
+1990
+K
+Fairlawn Elementary School
+C
+1991
+K
+Fairlawn Elementary School
+H
+1992
+K
+Fairlawn Elementary School
+G
+1993
+5
+Fairlawn Elementary School
+H
+1994
+1
+Norview Elementary School
+G
+1995
+5
+Norview Elementary School
+R
+1996
+5
+Norview Elementary School
+H
+1997
+5
+Richard Bowling Elem. School
+R
+1998
+K
+Richard Bowling Elem. School
+A
+1999
+K
+Richard Bowling Elem. School
+H
+2000
+4
+Richard Bowling Elem. School
+R
+2001
+K
+Jacox Elementary School
+G
+2002
+3
+Jacox Elementary School
+N
+2003
+4
+Jacox Elementary School
+G
+2004
+4
+Jacox Elementary School
+R
+2005
+4
+Jacox Elementary School
+R
+2006
+4
+Jacox Elementary School
+R
+2007
+4
+Jacox Elementary School
+C
+2008
+4
+Jacox Elementary School
+A
+2009
+4
+Jacox Elementary School
+C
+2010
+1
+Jacox Elementary School
+R
+2011
+1
+Jacox Elementary School
+N
+2012
+K
+Jacox Elementary School
+R
+2013
+5
+Jacox Elementary School
+A
+2014
+5
+Jacox Elementary School
+C
+2015
+///
+Golden Trevino
+Milwaukee
+2008
+3
+1
+Ocean View Elementary School
+C
+2008
+1
+Ocean View Elementary School
+C
+2009
+1
+Ocean View Elementary School
+G
+2010
+1
+Ocean View Elementary School
+A
+2011
+1
+Ocean View Elementary School
+A
+2012
+1
+Ocean View Elementary School
+N
+2013
+5
+Mary Calcott Elem. School
+R
+2014
+5
+Tidewater Park Elem. School
+C
+2015
+///
+Lauralee Dry
+Mizzou
+2012
+1
+2
+Camp Allen Elementary School
+H
+2012
+2
+Camp Allen Elementary School
+R
+2013
+2
+Camp Allen Elementary School
+R
+2014
+4
+Camp Allen Elementary School
+G
+2015
+///
+Gita Kidwell
+K
+2013
+4
+5
+St. Helena Elementary School
+H
+2013
+4
+St. Helena Elementary School
+A
+2014
+4
+St. Helena Elementary School
+N
+2015
+///
+Casandra Holzworth
+AU
+2015
+4
+5
+Suburban Park Elem. School
+A
+2015
+///
+Dionna Jack
+UF
+2007
+4
+1
+Willard Model Elem. School
+G
+2007
+5
+Willard Model Elem. School
+H
+2008
+5
+Willard Model Elem. School
+H
+2009
+4
+Crossroads School (Pre-K-8)
+N
+2010
+4
+Crossroads School (Pre-K-8)
+G
+2011
+4
+Crossroads School (Pre-K-8)
+C
+2012
+2
+Crossroads School (Pre-K-8)
+C
+2013
+2
+Crossroads School (Pre-K-8)
+C
+2014
+2
+Crossroads School (Pre-K-8)
+R
+2015
+///
+Chanel Rota
+U of U
+2013
+3
+K
+Fairlawn Elementary School
+N
+2013
+K
+Fairlawn Elementary School
+A
+2014
+K
+Fairlawn Elementary School
+C
+2015
+///
+Daphine Pilkenton
+UNCC
+1997
+5
+4
+Sewells Point Elem. School
+C
+1997
+3
+Sewells Point Elem. School
+G
+1998
+3
+Suburban Park Elem. School
+N
+1999
+3
+Suburban Park Elem. School
+R
+2000
+3
+Suburban Park Elem. School
+C
+2001
+3
+Suburban Park Elem. School
+N
+2002
+3
+Suburban Park Elem. School
+N
+2003
+3
+Suburban Park Elem. School
+R
+2004
+3
+Suburban Park Elem. School
+H
+2005
+3
+Suburban Park Elem. School
+A
+2006
+4
+Suburban Park Elem. School
+G
+2007
+5
+Suburban Park Elem. School
+H
+2008
+5
+Suburban Park Elem. School
+H
+2009
+K
+Suburban Park Elem. School
+N
+2010
+K
+Suburban Park Elem. School
+R
+2011
+2
+Suburban Park Elem. School
+A
+2012
+2
+Suburban Park Elem. School
+R
+2013
+2
+Suburban Park Elem. School
+H
+2014
+2
+Suburban Park Elem. School
+H
+2015
+///
+Tish Spitzer
+Madison
+2011
+5
+K
+Tarrallton Elementary School
+N
+2011
+K
+Tarrallton Elementary School
+G
+2012
+K
+Tarrallton Elementary School
+G
+2013
+K
+Tarrallton Elementary School
+A
+2014
+K
+Tarrallton Elementary School
+H
+2015
+///
+Remona Whitcher
+Cal
+2002
+2
+1
+Tarrallton Elementary School
+N
+2002
+4
+Tarrallton Elementary School
+C
+2003
+4
+Tarrallton Elementary School
+A
+2004
+4
+Tarrallton Elementary School
+C
+2005
+5
+Campostella Elem. School
+A
+2006
+5
+Campostella Elem. School
+A
+2007
+5
+Campostella Elem. School
+C
+2008
+5
+Campostella Elem. School
+C
+2009
+3
+Campostella Elem. School
+C
+2010
+3
+Campostella Elem. School
+N
+2011
+5
+Campostella Elem. School
+A
+2012
+5
+Sewells Point Elem. School
+A
+2013
+2
+Sewells Point Elem. School
+C
+2014
+2
+Sewells Point Elem. School
+C
+2015
+///
+Jinny Spitzer
+EMU
+1988
+2
+3
+Tarrallton Elementary School
+H
+1988
+3
+Sherwood Forest Elem. School
+N
+1989
+3
+Sherwood Forest Elem. School
+G
+1990
+3
+Sherwood Forest Elem. School
+G
+1991
+2
+Sherwood Forest Elem. School
+R
+1992
+2
+Sherwood Forest Elem. School
+A
+1993
+2
+Sherwood Forest Elem. School
+N
+1994
+2
+Sherwood Forest Elem. School
+G
+1995
+2
+Sherwood Forest Elem. School
+A
+1996
+2
+Sherwood Forest Elem. School
+R
+1997
+2
+Sherwood Forest Elem. School
+C
+1998
+2
+Sherwood Forest Elem. School
+R
+1999
+3
+Sherwood Forest Elem. School
+N
+2000
+5
+Sherwood Forest Elem. School
+N
+2001
+5
+Sherwood Forest Elem. School
+A
+2002
+K
+Sherwood Forest Elem. School
+C
+2003
+K
+Sherwood Forest Elem. School
+A
+2004
+K
+Sherwood Forest Elem. School
+H
+2005
+K
+Sherwood Forest Elem. School
+N
+2006
+K
+Sherwood Forest Elem. School
+N
+2007
+K
+Sherwood Forest Elem. School
+H
+2008
+K
+Sherwood Forest Elem. School
+C
+2009
+K
+Sherwood Forest Elem. School
+A
+2010
+K
+Sherwood Forest Elem. School
+R
+2011
+K
+Sherwood Forest Elem. School
+N
+2012
+K
+Sherwood Forest Elem. School
+R
+2013
+K
+Sherwood Forest Elem. School
+R
+2014
+K
+Sherwood Forest Elem. School
+C
+2015
+///
+Buena Brzezinski
+KU
+2009
+5
+1
+Mary Calcott Elem. School
+N
+2009
+5
+Mary Calcott Elem. School
+G
+2010
+5
+Mary Calcott Elem. School
+C
+2011
+5
+Mary Calcott Elem. School
+H
+2012
+5
+Mary Calcott Elem. School
+A
+2013
+5
+Mary Calcott Elem. School
+C
+2014
+5
+Mary Calcott Elem. School
+H
+2015
+///
+Gita Vicari
+Pomona
+1998
+1
+4
+St. Helena Elementary School
+G
+1998
+K
+St. Helena Elementary School
+C
+1999
+K
+St. Helena Elementary School
+R
+2000
+K
+Oceanair Elementary School
+R
+2001
+K
+Oceanair Elementary School
+H
+2002
+K
+Bay View Elementary School
+H
+2003
+K
+Bay View Elementary School
+A
+2004
+K
+Crossroads School (Pre-K-8)
+A
+2005
+K
+Mary Calcott Elem. School
+G
+2006
+K
+Mary Calcott Elem. School
+H
+2007
+K
+Mary Calcott Elem. School
+H
+2008
+K
+Mary Calcott Elem. School
+H
+2009
+1
+Mary Calcott Elem. School
+H
+2010
+1
+Mary Calcott Elem. School
+H
+2011
+1
+Mary Calcott Elem. School
+A
+2012
+4
+Mary Calcott Elem. School
+H
+2013
+4
+Mary Calcott Elem. School
+C
+2014
+4
+Mary Calcott Elem. School
+N
+2015
+///
+Kati Legaspi
+JHU
+1990
+3
+4
+Tanners Creek Elem. School
+R
+1990
+4
+Tanners Creek Elem. School
+G
+1991
+1
+Tanners Creek Elem. School
+N
+1992
+2
+Tanners Creek Elem. School
+G
+1993
+K
+Ocean View Elementary School
+N
+1994
+K
+Ocean View Elementary School
+N
+1995
+K
+Ocean View Elementary School
+R
+1996
+K
+Ocean View Elementary School
+H
+1997
+K
+Ingleside Elementary School
+N
+1998
+K
+Ingleside Elementary School
+G
+1999
+3
+Ingleside Elementary School
+R
+2000
+3
+Chesterfield Academy
+C
+2001
+3
+Chesterfield Academy
+H
+2002
+3
+Chesterfield Academy
+G
+2003
+3
+Chesterfield Academy
+C
+2004
+3
+Chesterfield Academy
+A
+2005
+3
+Chesterfield Academy
+R
+2006
+1
+Chesterfield Academy
+H
+2007
+1
+Chesterfield Academy
+R
+2008
+1
+Chesterfield Academy
+R
+2009
+4
+Chesterfield Academy
+H
+2010
+1
+Chesterfield Academy
+G
+2011
+3
+Chesterfield Academy
+C
+2012
+4
+Chesterfield Academy
+G
+2013
+4
+Chesterfield Academy
+N
+2014
+4
+Chesterfield Academy
+A
+2015
+///
+Florrie Melder
+Wazzu
+1991
+1
+3
+P.B. Young, Sr. Elem. School
+N
+1991
+3
+P.B. Young, Sr. Elem. School
+H
+1992
+3
+P.B. Young, Sr. Elem. School
+N
+1993
+K
+P.B. Young, Sr. Elem. School
+R
+1994
+K
+P.B. Young, Sr. Elem. School
+G
+1995
+K
+P.B. Young, Sr. Elem. School
+C
+1996
+K
+P.B. Young, Sr. Elem. School
+G
+1997
+1
+P.B. Young, Sr. Elem. School
+H
+1998
+5
+P.B. Young, Sr. Elem. School
+H
+1999
+5
+P.B. Young, Sr. Elem. School
+A
+2000
+1
+P.B. Young, Sr. Elem. School
+R
+2001
+K
+P.B. Young, Sr. Elem. School
+H
+2002
+K
+P.B. Young, Sr. Elem. School
+H
+2003
+K
+Larchmont Elementary School
+C
+2004
+K
+Larchmont Elementary School
+H
+2005
+K
+Larchmont Elementary School
+N
+2006
+5
+Larchmont Elementary School
+H
+2007
+2
+Larchmont Elementary School
+R
+2008
+2
+Larchmont Elementary School
+N
+2009
+5
+Chesterfield Academy
+G
+2010
+5
+Chesterfield Academy
+R
+2011
+2
+Chesterfield Academy
+N
+2012
+2
+Chesterfield Academy
+A
+2013
+2
+Chesterfield Academy
+R
+2014
+2
+Chesterfield Academy
+H
+2015
+///
+Raguel Toy
+Foothill
+2014
+3
+1
+Larchmont Elementary School
+A
+2014
+5
+Larchmont Elementary School
+R
+2015
+///
+Versie Bosley
+RPI
+2015
+2
+5
+Sherwood Forest Elem. School
+C
+2015
+///
